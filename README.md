@@ -33,13 +33,15 @@
 **3. 导入油猴插件**
 * 打开浏览器 -> 右上角三个点 `...` -> **扩展** -> **管理扩展**。
 * 确保你已启用 Tampermonkey (油猴)。
-    ![image|690x333, 50%](upload://f0hFSO55TSVwVAZudJEm6vDIMRi.png)
+    <img width="541" height="442" alt="image" src="https://github.com/user-attachments/assets/ed181d30-07b4-4801-898f-3d85e0966a5c" />
 * 点击油猴扩展的 **“详细信息”** -> **“扩展选项”** (或者直接点击浏览器工具栏的油猴图标 -> 管理面板)。
     *(注：这里进入油猴的管理后台即可)*
-    ![image|517x153](upload://6Ym3LOjZLNTxgw3pCfW85Y12vah.png)
+   <img width="562" height="163" alt="image" src="https://github.com/user-attachments/assets/22d3f87c-a862-4e3a-8cd6-7ab915bf34cd" />
+
 * 点击 **“实用工具”** 标签页 -> 在“导入”区域点击 **“选择文件”**。
 * 选择刚才改名好的 `remove.js`。
-    ![image|690x333, 50%](upload://sKTOxWGnQ66siqW1BiTKp9gHxAA.png)
+   <img width="519" height="443" alt="image" src="https://github.com/user-attachments/assets/0ec86704-2757-48a9-b848-8fad9517e34d" />
+
 * 跳转后点击 **“安装”** 即可。
 
 ---
@@ -50,16 +52,19 @@
 
 ### 1. 豆包展示
 **界面预览：**
-![image|484x500, 50%](upload://2C7yhOw6AGNQDQqLWljLYde0R9h.png)
+<img width="697" height="718" alt="image" src="https://github.com/user-attachments/assets/7e7f19cb-d621-491b-aab2-18807f00ff99" />
+
 
 **下载效果：**
-![image|595x500, 50%](upload://rWBM3FnVmS3Cjm4Gm9Vq0C9JtYF.jpeg)
+<img width="826" height="439" alt="image" src="https://github.com/user-attachments/assets/1a1e7413-cffa-41c1-b6ad-01ae1b2e97d7" />
+
 
 ### 2. Gemini 展示
 无需手动操作，显示的图片即为无水印版本，下载亦无水印。
 
 **对比展示：**
-![000|690x385, 50%](upload://ffLDJEV1GoQE93m0nxy39IiiTKZ.jpeg)
+<img width="818" height="520" alt="image" src="https://github.com/user-attachments/assets/e3998815-3688-4058-8fb4-43f2c0934b3a" />
+
 
 ---
 如有问题，欢迎在评论区反馈！
